@@ -1,0 +1,459 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 320px) {
+    li.nav-item {
+        margin-top: 1em;
+    }
+
+    .Buttons-Parents {
+        position: absolute;
+        width: 90%;
+        bottom: 9%;
+    }
+
+    .btn-primary {
+        margin-bottom: 0.4em;
+        width: 100%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 50%;
+        left: 30%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 320px) and (min-height: 568px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 87%;
+        bottom: 11%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 43%;
+        left: 30%;
+    }
+
+    .Image-Icon {
+        width: 7em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 344px) and (min-height: 882px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 88%;
+        bottom: 9%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 43%;
+        left: 27%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 360px) and (min-height: 640px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 88%;
+        bottom: 12%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 41%;
+        left: 27%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 360px) and (min-height: 740px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 88.5%;
+        bottom: 11%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 41%;
+        left: 27%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 375px) and (min-height: 667px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 89%;
+        bottom: 12%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 41%;
+        left: 28%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 375px) and (min-height: 812px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 89%;
+        bottom: 10%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 43%;
+        left: 28%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 390px) and (min-height: 844px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 89%;
+        bottom: 9%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 42%;
+        left: 29%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 411px) and (min-height: 823px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 90%;
+        bottom: 10%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 41%;
+        left: 30%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 412px) and (min-height: 914px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 90%;
+        bottom: 9%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 42%;
+        left: 30%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 412px) and (min-height: 915px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 90%;
+        bottom: 9%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 42%;
+        left: 30%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 414px) and (min-height: 736px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 90%;
+        bottom: 11%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 40%;
+        left: 30%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 414px) and (min-height: 896px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 90%;
+        bottom: 11%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 40%;
+        left: 30%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 430px) and (min-height: 932px) {
+    .Buttons-Parents {
+        position: absolute;
+        width: 90.5%;
+        bottom: 9%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 41%;
+        left: 31%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+
+    li.nav-item {
+        margin-top: unset;
+    }
+
+    .Buttons-Parents {
+        position: absolute;
+        width: 88%;
+        bottom: 10%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: absolute;
+        top: 43%;
+        left: 37%;
+    }
+
+    .Image-Icon {
+        width: 9em;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 1024px) {
+
+    li.nav-item {
+        margin-top: 0;
+    }
+
+    .form-group.col-md-offset-3.col-md-5 {
+        position: absolute;
+        width: -webkit-fill-available;
+        top: 35%;
+        left: 0%;
+    }
+
+    .Three-Sections {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .Info-Section-Parent {
+        width: 30%;
+    }
+
+    .Image-Parent {
+        border: 4px solid #cfe2ff;
+        border-radius: 100%;
+        padding: 1em;
+        position: unset;
+    }
+
+    .Image-Icon {
+        width: 7em;
+        object-fit: cover;
+    }
+
+    .Buttons-Parents {
+        display: flex;
+        flex-direction: column;
+        width: 30%;
+        position: unset;
+    }
+
+    .btn-primary {
+        margin-bottom: 0.3em;
+        width: 100%;
+    }
+    
+}
+
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+.form-control {
+    margin-bottom: 0.8em;
+}
+
+.btn-primary {
+    margin-bottom: 0.3em;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Loader CSS */
+.loader {
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none; /* Hidden by default */
+    z-index: 9999; /* Ensure loader is above other elements */
+}
+
+@keyframes spin {
+    0% {
+        transform: translate(-50%, -50%) rotate(0deg); /* Add translate here */
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg); /* Add translate here */
+    }
+}
+
+/* Overlay to darken the background */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 9998;
+    display: none; /* Hidden by default */
+}

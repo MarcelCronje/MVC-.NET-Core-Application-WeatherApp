@@ -1,0 +1,44 @@
+﻿@model WeatherApp.Models.SearchByCity
+
+@{
+    ViewData["Title"] = "SearchByCity";
+}
+
+<div class="overlay"></div>
+<div class="loader"></div>
+
+<div class="container">
+    <form method="post" onsubmit="return validateAndShowLoader()">
+        <div class="container">
+            <h2>Search By City</h2>
+            <div>
+                <input asp-for="CityName" class="form-control" placeholder="Enter city name..." />
+                <button type="submit" class="btn btn-outline-primary">
+                    Search
+                </button>
+                <span asp-validation-for="CityName" class="text-danger"></span>
+                @if (ViewData.ModelState[""] != null && ViewData.ModelState[""].Errors.Count > 0)
+                {
+                    <div class="text-danger">
+                        @ViewData.ModelState[""].Errors[0].ErrorMessage
+                    </div>
+                }
+            </div>
+        </div>
+    </form>
+</div>
+
+<script>
+    function validateAndShowLoader() {
+        var cityNameInput = document.querySelector('input[name="CityName"]');
+        if (cityNameInput.value.trim() === '') {
+            alert('Please enter a city name.');
+            return false; // If empty, do not show the loader
+        }
+
+        // Show the loader and overlay
+        document.querySelector('.loader').style.display = 'block';
+        document.querySelector('.overlay').style.display = 'block';
+        return true; // Submit the form
+    }
+</script>

@@ -1,0 +1,81 @@
+﻿@model WeatherApp.Models.City
+
+@{
+    ViewData["Title"] = "City";
+}
+
+<div class="overlay"></div>
+<div class="loader"></div>
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+else
+{
+    <div class="container">
+        <div class="form-group col-md-offset-3 col-md-5">
+
+            <div class="Three-Sections">
+
+            <div class="Info-Section-Parent">
+            <h2>Forecast For Selected City: @Model.Name</h2>
+            <!-- Temperature -->
+            <label asp-for="Temperature"></label>
+            <span id="temperature" class="badge alert-primary">@Model.Temperature</span> <span id="temperature-unit">@Model.TemperatureUnit</span><br />
+
+            <!-- Humidity -->
+            <label asp-for="Humidity"></label>
+            <span class="badge alert-primary">@Model.Humidity</span> <br />
+
+            <!-- Pressure -->
+            <label asp-for="Pressure"></label>
+            <span class="badge alert-primary">@Model.Pressure</span> <br />
+
+            <!-- Wind -->
+            <label asp-for="Wind"></label>
+            <span class="badge alert-primary">@Model.Wind</span> <br />
+
+            <!-- Weather Description -->
+            <label asp-for="Weather"></label>
+            <span class="badge alert-primary">@Model.Weather</span> <br />
+            </div>
+
+            <div class="Image-Parent">
+            <!-- Weather Condition Icon -->
+            <img class="Image-Icon" src="@Model.WeatherConditionIcon" alt="Weather Condition Icon" /> <br />
+            </div>
+
+            <div class="Buttons-Parents">
+                <!-- Refresh Button -->
+                <form asp-action="City" method="get" class="d-inline" onsubmit="showLoader()">
+                    <input type="hidden" name="city" value="@Model.Name" />
+                    <input type="hidden" name="temperature" value="@Model.Temperature" />
+                    <input type="hidden" name="temperatureUnit" value="@Model.TemperatureUnit" />
+                    <button type="submit" class="btn btn-primary">Refresh</button>
+                </form>
+
+                <!-- Switch Temperature Unit Button -->
+                <a asp-controller="WeatherForecast" asp-action="ConvertTemperatureUnit" asp-route-city="@Model.Name" asp-route-currentTemperature="@Model.Temperature" asp-route-currentUnit="@Model.TemperatureUnit" class="btn btn-primary" onclick="showLoader()">
+                    Switch to @(Model.TemperatureUnit == "Celsius" ? "Fahrenheit" : "Celsius")
+                </a>
+
+                <!-- Go Back Button -->
+                <form method="get">
+                    <button asp-controller="WeatherForecast" asp-action="SearchByCity" class="btn btn-primary">Go Back</button>
+                </form>
+            </div>
+
+            </div>
+        </div>
+    </div>
+}
+
+<script>
+    function showLoader() {
+        document.querySelector('.loader').style.display = 'block';
+        document.querySelector('.overlay').style.display = 'block';
+    }
+</script>

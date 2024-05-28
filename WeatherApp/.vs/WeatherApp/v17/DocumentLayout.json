@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\views\\weatherforecast\\city.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:views\\weatherforecast\\city.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\views\\weatherforecast\\searchbycity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:views\\weatherforecast\\searchbycity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\controllers\\weatherforcastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:controllers\\weatherforcastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:models\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\models\\currentweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:models\\currentweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\models\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:models\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\models\\searchbycity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:models\\searchbycity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\configuration\\values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:configuration\\values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\repositories\\wforecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:repositories\\wforecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\repositories\\iwforecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:repositories\\iwforecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\openweathermap model\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:openweathermap model\\weatherresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\openweathermap model\\wind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:openweathermap model\\wind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\openweathermap model\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:openweathermap model\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\openweathermap model\\sys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:openweathermap model\\sys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\openweathermap model\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:openweathermap model\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\openweathermap model\\coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:openweathermap model\\coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\openweathermap model\\clouds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:openweathermap model\\clouds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\weatherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:weatherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|c:\\users\\user\\documents\\github\\mvc-.net-core-application\\mvc-.net-core-application-weatherapp\\weatherapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A25BA550-CE3B-4DF8-8DF2-A55F8BB6C447}|WeatherApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:33:13.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForcastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Controllers\\WeatherForcastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForcastController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Controllers\\WeatherForcastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForcastController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAEwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:55:00.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "City.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Views\\WeatherForecast\\City.cshtml",
+              "RelativeDocumentMoniker": "Views\\WeatherForecast\\City.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Views\\WeatherForecast\\City.cshtml",
+              "RelativeToolTip": "Views\\WeatherForecast\\City.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:55:19.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAADsBAAAAAAAAAAAAAEgBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T11:02:33.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchByCity.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Views\\WeatherForecast\\SearchByCity.cshtml",
+              "RelativeDocumentMoniker": "Views\\WeatherForecast\\SearchByCity.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Views\\WeatherForecast\\SearchByCity.cshtml",
+              "RelativeToolTip": "Views\\WeatherForecast\\SearchByCity.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T18:44:41.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T13:21:52.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T10:43:53.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Models\\WeatherResponse.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Models\\WeatherResponse.cs",
+              "RelativeToolTip": "Models\\WeatherResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:50:59.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrentWeather.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Models\\CurrentWeather.cs",
+              "RelativeDocumentMoniker": "Models\\CurrentWeather.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Models\\CurrentWeather.cs",
+              "RelativeToolTip": "Models\\CurrentWeather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:24:36.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-28T11:05:26.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Condition.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Models\\Condition.cs",
+              "RelativeDocumentMoniker": "Models\\Condition.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Models\\Condition.cs",
+              "RelativeToolTip": "Models\\Condition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:23:50.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchByCity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Models\\SearchByCity.cs",
+              "RelativeDocumentMoniker": "Models\\SearchByCity.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Models\\SearchByCity.cs",
+              "RelativeToolTip": "Models\\SearchByCity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:45:37.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Models\\Location.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Models\\Location.cs",
+              "RelativeToolTip": "Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:22:59.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Values.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Configuration\\Values.cs",
+              "RelativeDocumentMoniker": "Configuration\\Values.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Configuration\\Values.cs",
+              "RelativeToolTip": "Configuration\\Values.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:51:42.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WForecastRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Repositories\\WForecastRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\WForecastRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Repositories\\WForecastRepository.cs",
+              "RelativeToolTip": "Repositories\\WForecastRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:34:22.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IWForecastRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Repositories\\IWForecastRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IWForecastRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Repositories\\IWForecastRepository.cs",
+              "RelativeToolTip": "Repositories\\IWForecastRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:27:43.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\WeatherResponse.cs",
+              "RelativeDocumentMoniker": "OpenWeatherMap Model\\WeatherResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\WeatherResponse.cs",
+              "RelativeToolTip": "OpenWeatherMap Model\\WeatherResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:57:18.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Wind.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\Wind.cs",
+              "RelativeDocumentMoniker": "OpenWeatherMap Model\\Wind.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\Wind.cs",
+              "RelativeToolTip": "OpenWeatherMap Model\\Wind.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:16:19.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\Weather.cs",
+              "RelativeDocumentMoniker": "OpenWeatherMap Model\\Weather.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\Weather.cs",
+              "RelativeToolTip": "OpenWeatherMap Model\\Weather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:11:01.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sys.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\Sys.cs",
+              "RelativeDocumentMoniker": "OpenWeatherMap Model\\Sys.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\Sys.cs",
+              "RelativeToolTip": "OpenWeatherMap Model\\Sys.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:14:41.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\Main.cs",
+              "RelativeDocumentMoniker": "OpenWeatherMap Model\\Main.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\Main.cs",
+              "RelativeToolTip": "OpenWeatherMap Model\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:15:11.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Coord.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\Coord.cs",
+              "RelativeDocumentMoniker": "OpenWeatherMap Model\\Coord.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\Coord.cs",
+              "RelativeToolTip": "OpenWeatherMap Model\\Coord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:08:25.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Clouds.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\Clouds.cs",
+              "RelativeDocumentMoniker": "OpenWeatherMap Model\\Clouds.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\OpenWeatherMap Model\\Clouds.cs",
+              "RelativeToolTip": "OpenWeatherMap Model\\Clouds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:15:54.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:05:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherApp.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\WeatherApp.csproj",
+              "RelativeDocumentMoniker": "WeatherApp.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\WeatherApp.csproj",
+              "RelativeToolTip": "WeatherApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T20:34:00.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T15:17:03.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T12:42:57.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\Services\\WeatherService.cs",
+              "RelativeToolTip": "Services\\WeatherService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwDcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:54:59.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\MVC-.NET-Core-Application\\MVC-.NET-Core-Application-WeatherApp\\WeatherApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T12:08:54.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
