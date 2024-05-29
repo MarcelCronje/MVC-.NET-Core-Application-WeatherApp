@@ -10,25 +10,34 @@ Features
 - Temperature Unit Conversion: Users can switch between Celsius and Fahrenheit.
 - Loading Indicator: A loader animation displays while data is being fetched.
 - Error Handling: Provides feedback if the city does not exist or if weather data is unavailable.
+
 Technologies Used
-.NET Core MVC
-HTML/CSS/JavaScript
-Weather API (e.g., WeatherAPI.com)
-AJAX for asynchronous operations
+
+- .NET Core MVC
+- HTML/CSS/JavaScript
+- Weather API (e.g., WeatherAPI.com)
+- AJAX for asynchronous operations
+
 Setup Instructions
-Clone the Repository
 
-Use git clone to clone the repository and navigate into the directory.
-Install Dependencies
+1. Clone the Repository
 
-Ensure you have the .NET Core SDK installed and run dotnet restore to restore the project dependencies.
-API Key Configuration
+- Use git clone to clone the repository and navigate into the directory.
 
-Obtain an API key from a weather data provider and add this key to your appsettings.json file.
-Run the Application
+2. Install Dependencies
 
-Use dotnet run to start the application.
+- Ensure you have the .NET Core SDK installed and run dotnet restore to restore the project dependencies.
+
+3. API Key Configuration
+
+- Obtain an API key from a weather data provider and add this key to your appsettings.json file.
+
+4. Run the Application
+
+- Use dotnet run to start the application.
+
 Project Structure
+
 Controllers
 
 Handles the logic for weather search, temperature conversion, and error handling.
