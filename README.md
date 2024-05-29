@@ -3,6 +3,7 @@
 <h3>Overview</h3>
 
 <p>The Weather App is a .NET Core MVC application that allows users to search for and view the weather forecast for any city. The app fetches weather data from a weather API and displays current weather conditions, including temperature, humidity, pressure, wind speed, and a weather description. Users can switch between Celsius and Fahrenheit temperature units, and a loader animation provides feedback during data fetching.<p/>
+<br>
 
 <h3>Features</h3>
 
@@ -11,6 +12,7 @@
 - Temperature Unit Conversion: Users can switch between Celsius and Fahrenheit.
 - Loading Indicator: A loader animation displays while data is being fetched.
 - Error Handling: Provides feedback if the city does not exist or if weather data is unavailable.
+<br>
 
 <h3>Technologies Used</h3>
 
@@ -19,46 +21,56 @@
 - Bootstrap CSS Library
 - Weather API (e.g., WeatherAPI.com)
 - AJAX for asynchronous operations
+<br>
 
 <h3>Setup Instructions</h3>
 
 1. Clone the Repository
 
 - Use git clone to clone the repository and navigate into the directory.
+<br>
 
 2. Install Dependencies
 
 - Ensure you have the .NET Core SDK installed and run dotnet restore to restore the project dependencies.
+<br>
 
 3. API Key Configuration
 
 - Obtain an API key from a weather data provider and add this key to your appsettings.json file.
+<br>
 
 4. Run the Application
 
 - Use dotnet run to start the application.
+<br>
 
 <h3>Project Structure</h3>
 
 <h4>Controllers</h4>
 
-Handles the logic for weather search, temperature conversion, and error handling.
+- Handles the logic for weather search, temperature conversion, and error handling.
+<br>
 
 <h4>Models</h4>
 
-Data models for city search, weather details, and API responses.
+- Data models for city search, weather details, and API responses.
+<br>
 
 <h4>Views</h4>
 
-Views for searching weather by city and displaying weather details.
+- Views for searching weather by city and displaying weather details.
+<br>
 
 <h4>wwwroot/css/site.css</h4>
 
-Contains the CSS for styling the application and loader animation.
+- Contains the CSS for styling the application and loader animation.
+<br>
 
 <h4>Scripts</h4>
 
-JavaScript for handling form submission, showing the loader, and client-side validation.
+- JavaScript for handling form submission, showing the loader, and client-side validation.
+<br>
 
 
 <h3>Key Implementations</h3>
