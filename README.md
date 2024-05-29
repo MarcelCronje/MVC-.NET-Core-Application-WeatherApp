@@ -17,30 +17,26 @@ AJAX for asynchronous operations
 Setup Instructions
 Clone the Repository
 
-bash
-Copy code
+
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 Install Dependencies
 Make sure you have .NET Core SDK installed. Restore the project dependencies.
 
-bash
-Copy code
+
 dotnet restore
 API Key Configuration
 Obtain an API key from a weather data provider (e.g., WeatherAPI.com). Add this key to your configuration.
 
 Open appsettings.json.
 Add your API key:
-json
-Copy code
+
 {
   "WeatherApiKey": "your_api_key_here"
 }
 Run the Application
 
-bash
-Copy code
+
 dotnet run
 Project Structure
 Controllers
@@ -65,8 +61,7 @@ Key Implementations
 Controller Actions
 SearchByCity (GET)
 
-csharp
-Copy code
+
 [HttpGet]
 public IActionResult SearchByCity()
 {
@@ -75,8 +70,7 @@ public IActionResult SearchByCity()
 }
 SearchByCity (POST)
 
-csharp
-Copy code
+
 [HttpPost]
 public IActionResult SearchByCity(SearchByCity model)
 {
@@ -95,8 +89,7 @@ public IActionResult SearchByCity(SearchByCity model)
 }
 City (GET)
 
-csharp
-Copy code
+
 [HttpGet]
 public IActionResult City(string city, int? temperature, string temperatureUnit)
 {
@@ -127,8 +120,7 @@ public IActionResult City(string city, int? temperature, string temperatureUnit)
 }
 ConvertTemperatureUnit (GET)
 
-csharp
-Copy code
+
 [HttpGet]
 public IActionResult ConvertTemperatureUnit(string city, int currentTemperature, string currentUnit)
 {
@@ -151,8 +143,7 @@ public IActionResult ConvertTemperatureUnit(string city, int currentTemperature,
 View Enhancements
 Loader Animation and Overlay
 
-html
-Copy code
+
 <div class="overlay"></div>
 <div class="loader"></div>
 
@@ -164,8 +155,7 @@ Copy code
 </script>
 Form Validation and Error Display
 
-html
-Copy code
+
 <span asp-validation-for="CityName" class="text-danger"></span>
 @if (ViewData.ModelState[""] != null && ViewData.ModelState[""].Errors.Count > 0)
 {
@@ -175,8 +165,7 @@ Copy code
 }
 Styling
 Loader CSS
-css
-Copy code
+
 .loader {
     border: 16px solid #f3f3f3;
     border-radius: 50%;
