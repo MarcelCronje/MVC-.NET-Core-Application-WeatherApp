@@ -1,9 +1,10 @@
 # MVC-.NET-Core-Application-WeatherApp
-Weather App
-Overview
-The Weather App is a .NET Core MVC application that allows users to search for and view the weather forecast for any city. The app fetches weather data from a weather API and displays current weather conditions, including temperature, humidity, pressure, wind speed, and a weather description. Users can switch between Celsius and Fahrenheit temperature units, and a loader animation provides feedback during data fetching.
+<h2>Weather App</h2>
+<h3>Overview</h3>
 
-Features
+<p>The Weather App is a .NET Core MVC application that allows users to search for and view the weather forecast for any city. The app fetches weather data from a weather API and displays current weather conditions, including temperature, humidity, pressure, wind speed, and a weather description. Users can switch between Celsius and Fahrenheit temperature units, and a loader animation provides feedback during data fetching.<p/>
+
+<h3>Features</h3>
 
 - Search by City: Users can search for weather information by entering the name of a city.
 - Current Weather Display: Displays current weather conditions such as temperature, humidity, pressure, wind speed, and a descriptive weather icon.
@@ -11,14 +12,15 @@ Features
 - Loading Indicator: A loader animation displays while data is being fetched.
 - Error Handling: Provides feedback if the city does not exist or if weather data is unavailable.
 
-Technologies Used
+<h3>Technologies Used</h3>
 
 - .NET Core MVC
 - HTML/CSS/JavaScript
+- Bootstrap CSS Library
 - Weather API (e.g., WeatherAPI.com)
 - AJAX for asynchronous operations
 
-Setup Instructions
+<h3>Setup Instructions</h3>
 
 1. Clone the Repository
 
@@ -36,6 +38,7 @@ Setup Instructions
 
 - Use dotnet run to start the application.
 
+<h3>Features</h3>
 Project Structure
 
 Controllers
@@ -53,8 +56,11 @@ Contains the CSS for styling the application and loader animation.
 Scripts
 
 JavaScript for handling form submission, showing the loader, and client-side validation.
-Key Implementations
-Controller Actions
+
+<h3>Key Implementations</h3>
+
+<h4>Controller Actions</h4>
+
 SearchByCity (GET)
 
 Initializes and returns the search by city view.
@@ -67,18 +73,25 @@ Fetches and displays weather details for a specified city, or shows an error mes
 ConvertTemperatureUnit (GET)
 
 Converts the temperature between Celsius and Fahrenheit and updates the view accordingly.
-View Enhancements
+
+<h4>View Enhancements</h4>
+
 Loader Animation and Overlay
 
 Adds a loader animation and overlay that displays while data is being fetched.
 Form Validation and Error Display
 
 Provides client-side validation and displays error messages if the city does not exist.
-Styling
+
+<h4>Styling</h4>
+
 Loader CSS
 Styles for the loader animation to indicate data fetching.
-Contributing
+
+<h3>Contributing</h3>
+
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-License
+<h3>License</h3>
+
 This project is licensed under the MIT License.
