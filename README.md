@@ -88,6 +88,7 @@ City (GET)
 
 ConvertTemperatureUnit (GET)
 - Converts the temperature between Celsius and Fahrenheit and updates the view accordingly.
+<br>
 
 <h4>View Enhancements</h4>
 
@@ -96,6 +97,7 @@ Loader Animation and Overlay
 
 Form Validation and Error Display
 - Provides client-side validation and displays error messages if the city does not exist.
+<br>
 
 <h4>Styling</h4>
 
@@ -106,10 +108,10 @@ Loader CSS
 
 <h3>Contributing</h3>
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+<p>Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.</p>
 <br>
 
 
 <h3>License</h3>
 
-This project is licensed under the MIT License.
+<p>This project is licensed under the MIT License.</p>
