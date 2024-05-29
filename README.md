@@ -3,7 +3,13 @@
 <h3>Overview</h3>
 
 <p>The Weather App is a .NET Core MVC application that allows users to search for and view the weather forecast for any city. The app fetches weather data from a weather API and displays current weather conditions, including temperature, humidity, pressure, wind speed, and a weather description. Users can switch between Celsius and Fahrenheit temperature units, and a loader animation provides feedback during data fetching.<p/>
-<br>
+<be>
+
+<p align="center">
+<img src="https://i.ibb.co/smZM6n5/Mobile-Preview-Assesment.png" alt="Mobile-Preview-Assessment" width="320" height="670.8">
+<p/>
+
+<img src="https://i.ibb.co/Y0zYF68/Desktop-Preview-Assesment.png" alt="Desktop-Preview-Assessment" width="auto" height="auto">
 
 <h3>Features</h3>
 
