@@ -38,24 +38,28 @@
 
 - Use dotnet run to start the application.
 
-<h3>Features</h3>
-Project Structure
+<h3>Project Structure</h3>
 
-Controllers
+<h4>Controllers</h4>
 
 Handles the logic for weather search, temperature conversion, and error handling.
-Models
+
+<h4>Models</h4>
 
 Data models for city search, weather details, and API responses.
-Views
+
+<h4>Views</h4>
 
 Views for searching weather by city and displaying weather details.
-wwwroot/css/site.css
+
+<h4>wwwroot/css/site.css</h4>
 
 Contains the CSS for styling the application and loader animation.
-Scripts
+
+<h4>Scripts</h4>
 
 JavaScript for handling form submission, showing the loader, and client-side validation.
+
 
 <h3>Key Implementations</h3>
 
@@ -88,9 +92,11 @@ Provides client-side validation and displays error messages if the city does not
 Loader CSS
 Styles for the loader animation to indicate data fetching.
 
+
 <h3>Contributing</h3>
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
 
 <h3>License</h3>
 
