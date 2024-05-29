@@ -78,36 +78,36 @@
 <h4>Controller Actions</h4>
 
 SearchByCity (GET)
+- Initializes and returns the search by city view.
 
-Initializes and returns the search by city view.
 SearchByCity (POST)
+- Validates the input, fetches weather data, and handles the case where the city does not exist.
 
-Validates the input, fetches weather data, and handles the case where the city does not exist.
 City (GET)
+- Fetches and displays weather details for a specified city, or shows an error message if data is not found.
 
-Fetches and displays weather details for a specified city, or shows an error message if data is not found.
 ConvertTemperatureUnit (GET)
-
-Converts the temperature between Celsius and Fahrenheit and updates the view accordingly.
+- Converts the temperature between Celsius and Fahrenheit and updates the view accordingly.
 
 <h4>View Enhancements</h4>
 
 Loader Animation and Overlay
+- Adds a loader animation and overlay that displays while data is being fetched.
 
-Adds a loader animation and overlay that displays while data is being fetched.
 Form Validation and Error Display
-
-Provides client-side validation and displays error messages if the city does not exist.
+- Provides client-side validation and displays error messages if the city does not exist.
 
 <h4>Styling</h4>
 
 Loader CSS
-Styles for the loader animation to indicate data fetching.
+- Styles for the loader animation to indicate data fetching.
+<br>
 
 
 <h3>Contributing</h3>
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+<br>
 
 
 <h3>License</h3>
